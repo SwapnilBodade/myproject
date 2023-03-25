@@ -25,11 +25,11 @@ public class myApp {
 
 
 
-        System.out.println("Var Name: "+arg1);
-        System.out.println("Var Name: "+arg2);
-        System.out.println("Var Name: "+arg3);
-        System.out.println("Var Name: "+arg4);
-        System.out.println("Var Name: "+arg5);
+        System.out.println("Var1 Name: "+arg1);
+        System.out.println("Var2 Name: "+arg2);
+        System.out.println("Var3 Name: "+arg3);
+        System.out.println("Var4 Name: "+arg4);
+        System.out.println("Var5 Name: "+arg5);
 
 
 

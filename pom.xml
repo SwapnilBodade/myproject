@@ -49,11 +49,11 @@
                 <configuration>
                     <mainClass>org.example.myApp</mainClass>
                     <arguments>
-                        <argument>${arg1}</argument>
-                        <argument>${arg2}</argument>
-                        <argument>${arg3}</argument>
-                        <argument>${arg4}</argument>
-                        <argument>${arg5}</argument>
+                        <argument>${arg1.one}</argument>
+                        <argument>${arg2.two}</argument>
+                        <argument>${arg3.three}</argument>
+                        <argument>${arg4.four}</argument>
+                        <argument>${arg5.five}</argument>
                     </arguments>
 
                     <!--                               <systemProperties>-->
